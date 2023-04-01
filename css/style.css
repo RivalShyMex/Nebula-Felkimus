@@ -1,3 +1,19 @@
-body{
-    
+body {
+    background-image: url(../images/planets.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#titlename {
+    display: flex;
+    justify-content: space-between
+}
+
+#nebula {
+    padding-left: 25%;
+}
+
+#felkimus {
+    padding-right: 40%;
+    padding-top: 2%;
 }
