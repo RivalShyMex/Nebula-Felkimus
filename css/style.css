@@ -1,10 +1,10 @@
 body {
-    background-image: url(../images/planets.png);
+    /*background-image: url(../images/planets.png);*/
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-#titlename {
+/*#titlename {
     display: flex;
     justify-content: space-between
 }
@@ -16,4 +16,5 @@ body {
 #felkimus {
     padding-right: 40%;
     padding-top: 2%;
-}
+}*/
+
