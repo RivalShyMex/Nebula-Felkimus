@@ -11,6 +11,10 @@ document.addEventListener('input', function(ev) {
 function RollDice() {
   let number = Math.floor(Math.random() * TOTAL_PLANETS + 1);
 
+
+  console.log(number);
+
+
   // loop through the possible planet ids and find a match
   for (let i = 1; i <= TOTAL_PLANETS; i++) {
     let planet = document.getElementById(`planet${i}`);
