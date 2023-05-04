@@ -9,7 +9,7 @@ function RollDice() {
   let number = Math.floor(Math.random() * planets.length);
 
   planets[number] = true;
-
+}
   /* console.log(`Unlocked planet number ${number}`);
  
   // loop through the possible planet ids and find a match
@@ -38,8 +38,8 @@ function RollDice() {
          return number;
        }
      }
-   }*/
-}
+   }
+}*/
 
 /*const planetList = document.querySelectorAll('[id^="planet"]');
 
