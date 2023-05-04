@@ -22,7 +22,8 @@ function RollDice() {
   }, 500);
 
 }
-  /* console.log(`Unlocked planet number ${number}`);
+
+/* console.log(`Unlocked planet number ${number}`);
  
 // loop through the possible planet ids and find a match
  for (let i = 0; i < planetList.length; i++) {
