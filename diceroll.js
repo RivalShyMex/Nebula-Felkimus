@@ -16,8 +16,6 @@ function RollDice() {
   console.log("click");
   localStorage["planets"] = JSON.stringify(planets);
 
-  //TODO
-  //unlock planet, go back to main
   // Navigate to the main page
   setTimeout(() => {
     window.open("main.html", "_self");
