@@ -1,7 +1,10 @@
 //const TOTAL_PLANETS = 20;
 //const TOTAL_PLANETS = document.querySelectorAll('.planet').length;
 if (!localStorage["planets"]) {
-  let planets = [false, false, false, false, false];
+  let planets = [];
+  for (let index = 0; index < 20; index++) {
+    planets.push(false)
+  }
   localStorage["planets"] = JSON.stringify(planets);
 }
 let planets = JSON.parse(localStorage["planets"]);
