@@ -18,37 +18,41 @@ function RollDice() {
 
   //TODO
   //unlock planet, go back to main
+  // Navigate to the main page
+  setTimeout(() => {
+    window.location.href = mainpageUrl;
+  }, 500);
 
 }
   /* console.log(`Unlocked planet number ${number}`);
  
-  // loop through the possible planet ids and find a match
-   for (let i = 0; i < planetList.length; i++) {
-     let planet = planetList[i];
+// loop through the possible planet ids and find a match
+ for (let i = 0; i < planetList.length; i++) {
+   let planet = planetList[i];
  
-     if (planet !== null) {
-       if (number === i) {
-         // Set the itemUnlocked value to true and save it in localStorage
-         localStorage.setItem("itemUnlocked", true);
+   if (planet !== null) {
+     if (number === i) {
+       // Set the itemUnlocked value to true and save it in localStorage
+       localStorage.setItem("itemUnlocked", true);
  
-         // Hide all planets and show the unlocked planet
-         //Might use this part of the code as well
-         planetList.forEach((planetToHide) => {
-           planetToHide.style.display = "none";
-         });
-         planet.style.display = "block";
+       // Hide all planets and show the unlocked planet
+       //Might use this part of the code as well
+       planetList.forEach((planetToHide) => {
+         planetToHide.style.display = "none";
+       });
+       planet.style.display = "block";
  
-         // Navigate to the planet page with the itemUnlocked parameter
-         let url = `pages/planet${i + 1}.html?itemUnlocked=${i + 1}`;
-         setTimeout(() => {
-           window.location.href = url;
-           console.log("Done!");
-         }, 500);
+       // Navigate to the planet page with the itemUnlocked parameter
+       let url = `pages/planet${i + 1}.html?itemUnlocked=${i + 1}`;
+       setTimeout(() => {
+         window.location.href = url;
+         console.log("Done!");
+       }, 500);
  
-         return number;
-       }
+       return number;
      }
    }
+ }
 }*/
 
 /*const planetList = document.querySelectorAll('[id^="planet"]');
