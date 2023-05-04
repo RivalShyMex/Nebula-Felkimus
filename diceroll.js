@@ -11,6 +11,10 @@ function RollDice() {
   planets[number] = true;
   console.log("click");
   localStorage["planets"] = JSON.stringify(planets);
+
+  //TODO
+  //unlock planet, go back to main
+
 }
   /* console.log(`Unlocked planet number ${number}`);
  
