@@ -3,7 +3,7 @@
 let mainpageUrl = `main.html`;
 if (!localStorage["planets"]) {
   let planets = [];
-  for (let index = 0; index < 20; index++) {
+  for (let i = 0; i < 20; i++) {
     planets.push(false)
   }
   localStorage["planets"] = JSON.stringify(planets);
