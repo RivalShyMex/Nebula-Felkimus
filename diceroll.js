@@ -20,7 +20,7 @@ function RollDice() {
   //unlock planet, go back to main
   // Navigate to the main page
   setTimeout(() => {
-    window.location.href = mainpageUrl;
+    window.open("main.html", "_self");
   }, 500);
 
 }
