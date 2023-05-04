@@ -23,6 +23,101 @@ img{
     height: 100%;
 }*/
 
-#planets {
+#planet1 {
     display: none;
+}
+
+#planet2 {
+    display: none;
+    margin-left: 2%;
+}
+
+#planet3 {
+    display: none;
+    margin-left: 3%;
+}
+
+#planet4 {
+    display: none;
+    margin-left: 4%;
+}
+
+#planet5 {
+    display: none;
+    margin-left: 5%;
+}
+
+#planet6 {
+    display: none;
+    margin-left: 6%;
+}
+
+#planet7 {
+    display: none;
+    margin-left: 7%;
+}
+
+#planet8 {
+    display: none;
+    margin-left: 8%;
+}
+
+#planet9 {
+    display: none;
+    margin-left: 9%;
+}
+
+#planet10 {
+    display: none;
+    margin-left: 10%;
+}
+
+#planet11 {
+    display: none;
+    margin-left: 11%;
+}
+
+#planet12 {
+    display: none;
+    margin-left: 12%;
+}
+
+#planet13 {
+    display: none;
+    margin-left: 13%;
+}
+
+#planet14 {
+    display: none;
+    margin-left: 14%;
+}
+
+#planet15 {
+    display: none;
+    margin-left: 15%;
+}
+
+#planet16 {
+    display: none;
+    margin-left: 16%;
+}
+
+#planet17 {
+    display: none;
+    margin-left: 17%;
+}
+
+#planet18 {
+    display: none;
+    margin-left: 18%;
+}
+
+#planet19 {
+    display: none;
+    margin-left: 19%;
+}
+
+#planet20 {
+    display: none;
+    margin-left: 20%;
 }

@@ -1,37 +1,85 @@
-const TOTAL_PLANETS = 20;
-let itemUnlocked = localStorage.getItem("itemUnlocked");
+//const TOTAL_PLANETS = 20;
+//const TOTAL_PLANETS = document.querySelectorAll('.planet').length;
+if (!localStorage["planets"]) {
+  let planets = [false, false, false, false, false];
+  localStorage["planets"] = JSON.stringify(planets);
+}
+let planets = JSON.parse(localStorage["planets"]);
+function RollDice() {
+  let number = Math.floor(Math.random() * planets.length);
 
-document.addEventListener('input', function(ev) {
-  if (ev.target && ev.target.closest) {
-    let container = ev.target.closest('.form-group');
-    // rest of the code
-  }
-});
+  planets[number] = true;
+
+  /* console.log(`Unlocked planet number ${number}`);
+ 
+  // loop through the possible planet ids and find a match
+   for (let i = 0; i < planetList.length; i++) {
+     let planet = planetList[i];
+ 
+     if (planet !== null) {
+       if (number === i) {
+         // Set the itemUnlocked value to true and save it in localStorage
+         localStorage.setItem("itemUnlocked", true);
+ 
+         // Hide all planets and show the unlocked planet
+         //Might use this part of the code as well
+         planetList.forEach((planetToHide) => {
+           planetToHide.style.display = "none";
+         });
+         planet.style.display = "block";
+ 
+         // Navigate to the planet page with the itemUnlocked parameter
+         let url = `pages/planet${i + 1}.html?itemUnlocked=${i + 1}`;
+         setTimeout(() => {
+           window.location.href = url;
+           console.log("Done!");
+         }, 500);
+ 
+         return number;
+       }
+     }
+   }*/
+}
+
+/*const planetList = document.querySelectorAll('[id^="planet"]');
+
+function isPlanetUnlocked(planetNumber) {
+  let params = new URLSearchParams(window.location.search);
+  return params.get('itemUnlocked') === `planet${planetNumber}`;
+}
 
 function RollDice() {
-  let number = Math.floor(Math.random() * TOTAL_PLANETS + 1);
+  let number = Math.floor(Math.random() * 20) + 1;
+  console.log(`Unlocked planet number ${number}`);
 
+  let planetId = `planet${number}`;
+  let mainpageUrl = `main.html`;
 
-  console.log(number);
+  // Store the unlocked planet in localStorage
+  localStorage.setItem('unlockedPlanet', planetId);
 
+  // Navigate to the main page
+  setTimeout(() => {
+    window.location.href = mainpageUrl;
+  }, 500);
 
-  // loop through the possible planet ids and find a match
-  for (let i = 1; i <= TOTAL_PLANETS; i++) {
-    let planet = document.getElementById(`planet${i}`);
-
-    if (planet !== null) {
-      if (number === i) {
-        if (itemUnlocked === "true") {
-          console.log(`Unlocked planet number ${number}`)
-          localStorage.setItem("itemUnlocked", true);
-        }
-
-        planet.style.display = "block";
-        let url = `planet${i}.html?itemUnlocked=true`;
-        window.location.href = url;
-
-        return number;
-      }
-    }
-  }
+  return number;
 }
+
+document.addEventListener("DOMContentLoaded", function () {
+  function displayUnlockedPlanets() {
+    let planetList = document.querySelectorAll('[id^="planet"]');
+    let unlockedPlanet = localStorage.getItem('unlockedPlanet');
+
+    planetList.forEach((planetElement) => {
+      let planetNumber = planetElement.id.replace("planet", "");
+      if (unlockedPlanet === `planet${planetNumber}`) {
+        planetElement.style.display = "block";
+      } else {
+        planetElement.style.display = "none";
+      }
+    });
+  }
+
+  displayUnlockedPlanets();
+});*/
