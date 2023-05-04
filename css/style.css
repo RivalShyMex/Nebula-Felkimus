@@ -23,7 +23,12 @@ img{
     height: 100%;
 }*/
 
-#planet1 {
+#planets{
+    margin-right: 5%;
+    width: 50%;
+}
+
+/*#planet1 {
     display: none;
 }
 
@@ -120,4 +125,4 @@ img{
 #planet20 {
     display: none;
     margin-left: 20%;
-}
+}*/

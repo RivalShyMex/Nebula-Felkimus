@@ -9,6 +9,8 @@ function RollDice() {
   let number = Math.floor(Math.random() * planets.length);
 
   planets[number] = true;
+  console.log("click");
+  localStorage["planets"] = JSON.stringify(planets);
 }
   /* console.log(`Unlocked planet number ${number}`);
  
