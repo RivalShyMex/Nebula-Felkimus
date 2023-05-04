@@ -1,5 +1,6 @@
 //const TOTAL_PLANETS = 20;
 //const TOTAL_PLANETS = document.querySelectorAll('.planet').length;
+let mainpageUrl = `main.html`;
 if (!localStorage["planets"]) {
   let planets = [];
   for (let index = 0; index < 20; index++) {
