@@ -1,5 +1,3 @@
-//const TOTAL_PLANETS = 20;
-//const TOTAL_PLANETS = document.querySelectorAll('.planet').length;
 let mainpageUrl = `main.html`;
 if (!localStorage["planets"]) {
   let planets = [];
@@ -22,6 +20,9 @@ function RollDice() {
   }, 5000);
 
 }
+
+//const TOTAL_PLANETS = 20;
+//const TOTAL_PLANETS = document.querySelectorAll('.planet').length;
 
 /* console.log(`Unlocked planet number ${number}`);
  
