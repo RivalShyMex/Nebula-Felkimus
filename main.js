@@ -11,7 +11,10 @@ if (!localStorage["planets"]) {
     if(planets[i]){
         string += `<img src="../images/planet${i}.png" onclick="openPlanet(${i})">`
 
-    }    
+    } 
+    else{
+      string += `<div></div>`
+    }   
   }
   document.getElementById("planets").innerHTML = string;
   function openPlanet(i){
