@@ -6,7 +6,7 @@ function generateCards() {
         ergstring += `<div class= column>`
         for (let j = 0; j < 3; j++) {
             ergstring += `<div class="card">
-            
+            <p>Test at page</p>
               <p>Test at ${localStorage["planetindex"]} page</p>
                 </div>`
             counter++
