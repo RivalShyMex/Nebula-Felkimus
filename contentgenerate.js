@@ -6,39 +6,7 @@ function generateCards() {
         ergstring += `<div class= column>`
         for (let j = 0; j < 3; j++) {
             ergstring += `<div class="card">
-                <div class="name">
-                <p>${digimons[counter].name}</p>
-                </div>
-                <div class="infos">
-                    <div id="picture">
-                    
-                     <img src="./img/${digimons[counter].picture}">
-                      
-                    </div>
-                    <div class="texts">
-                      <div class="data">
-                        <div>
-                        <p>Level: </p> 
-                            <p>${digimons[counter].level}</p>    
-                        </div>
-                        <div>
-                            <p>Type: </p> 
-                            <p>${digimons[counter].type}</p>
-                        </div>
-                        <div>
-                            <p>Attribute: </p>
-                            <p>${digimons[counter].attribute}</p>
-                        </div>
-                      </div>   
-                     <div class="specialMoves">
-                        <p>Special moves:</p>
-                        <p>${digimons[counter].specialMove}</p>
-                     </div>
-                     <div class="profile">
-                        <p>Profile: ${digimons[counter].profile}</p>
-                     </div>
-                     </div>
-                    </div>
+              <p>Test at ${localStorage["planetindex"]} page</p>
                 </div>`
             counter++
         }
@@ -47,7 +15,7 @@ function generateCards() {
     document.getElementById('contentgenerate').innerHTML = ergstring
 }
 
-function filterCards() {
+/*function filterCards() {
     counter = 0;
     let filter = document.getElementById('attributeFilter').value;
     if(filter == "all"){
@@ -99,4 +67,4 @@ function filterCards() {
         ergstring += `</div>`
         document.getElementById('contentgenerate').innerHTML = ergstring
     }
-}
+}*/
