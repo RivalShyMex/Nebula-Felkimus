@@ -10,3 +10,12 @@ body {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
+
+.card{
+    border: rgb(16, 66, 141) solid 10px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #d86100;
+    margin: 1%;
+    width: 70%;
+}
