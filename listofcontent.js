@@ -1,15 +1,16 @@
-let digimon1 = {
-    name: "Gammamon",
-    level: "Rookie",
-    type: "Ceratopsian",
+let bionicle = {
+    name: "Bionicle",
+    description: "Bionicle is a line of Lego construction toys, marketed primarily towards 8-to-16-year-olds. The line originally launched in 2001 as a subsidiary of Lego's Technic series. Over the following decade, it became one of Lego's biggest-selling properties, turning into a franchise and being one of the many factors in saving the company from its financial crisis of the late 1990s. Despite a planned twenty-year tenure, the theme was discontinued in 2010, but was rebooted in 2015 for a further two years. ",
+    developedby: "The Lego Group",
     attribute: "Virus",
     specialMove: "Horn Attack, Breaclaw",
     profile: "An extremely rare, young white Ceratopsian Digimon that was recently discovered. Gammamon’s Digivolution is said to be related to a digital signal that came from somewhere outside our galaxy.",
-    picture: "gammamon.jpg"
+    picture: "gammamon.jpg",
+    video: ""
 }
 
-let digimon2 = {
-    name: "Gallantmon",
+let riskofrain = {
+    name: "Risk of Rain",
     level: "Mega",
     type: "Holy Knight",
     attribute: "Virus",
@@ -18,8 +19,8 @@ let digimon2 = {
     picture: "dukemon.jpg"
 }
 
-let digimon3 = {
-    name: "Spadamon",
+let outerwilds = {
+    name: "Outer Wilds",
     level: "Rookie",
     type: "Weapon",
     attribute: "Free",
@@ -28,8 +29,8 @@ let digimon3 = {
     picture: "spadamon.jpg"
 }
 
-let digimon4 = {
-    name: "Missimon",
+let einhaender = {
+    name: "Einhänder",
     level: "In-Trainig II",
     type: "Machine",
     attribute: "None",
@@ -38,8 +39,8 @@ let digimon4 = {
     picture: "missimon.jpg"
 }
 
-let digimon5 = {
-    name: "RizeGreymon",
+let ultrakill = {
+    name: "Ultrakill",
     level: "Ultimate",
     type: "Android",
     attribute: "Vaccine",
@@ -48,8 +49,8 @@ let digimon5 = {
     picture: "rizegreymon.jpg"
 }
 
-let digimon6 = {
-    name: "Beetlemon",
+let warhammer40k = {
+    name: "Warhammer 40K",
     level: "Hybrid",
     type: "Android",
     attribute: "Variable",
@@ -58,8 +59,8 @@ let digimon6 = {
     picture: "blitzmon.jpg"
 }
 
-let digimon7 = {
-    name: "Shoutmon X4",
+let deeprockgalactic = {
+    name: "Deep Rock Galactic",
     level: "Champion (Xros Wars)",
     type: "Composite",
     attribute: "Data",
@@ -68,8 +69,8 @@ let digimon7 = {
     picture: "shoutmonx4.jpg"
 }
 
-let digimon8 = {
-    name: "Dracomon (X Antibody)",
+let deadspace = {
+    name: "Dead Space",
     level: "Rookie",
     type: "Dragon",
     attribute: "Data",
@@ -78,8 +79,8 @@ let digimon8 = {
     picture: "dracomon_x.jpg"
 }
 
-let digimon9 = {
-    name: "Digmon",
+let digimon = {
+    name: "Digimon",
     level: "Armor",
     type: "Insectoid",
     attribute: "Free",
@@ -88,8 +89,8 @@ let digimon9 = {
     picture: "digmon.jpg"
 }
 
-let digimon10 = {
-    name: "Machinedramon",
+let planetes = {
+    name: "Planetes",
     level: "Mega",
     type: "Machine",
     attribute: "Virus",
@@ -98,8 +99,8 @@ let digimon10 = {
     picture: "mugendramon.jpg"
 }
 
-let digimon11 = {
-    name: "SkullKnightmon: Cavalier Mode",
+let monsterverse = {
+    name: "Monsterverse",
     level: "Champion (Xros Wars)",
     type: "Enhancement",
     attribute: "Virus",
@@ -108,8 +109,8 @@ let digimon11 = {
     picture: "skullknightmoncavaliermode.jpg"
 }
 
-let digimon12 = {
-    name: "MachGaogamon",
+let metalgearsolid = {
+    name: "Metal Gear Solid",
     level: "Ultimate",
     type: "Android",
     attribute: "Data",
@@ -118,8 +119,8 @@ let digimon12 = {
     picture: "machgaogamon.jpg"
 }
 
-let digimon13 = {
-    name: "Aldamon",
+let furi = {
+    name: "Furi",
     level: "Hybrid",
     type: "Wizard",
     attribute: "Variable",
@@ -128,8 +129,8 @@ let digimon13 = {
     picture: "aldamon.jpg"
 }
 
-let digimon14 = {
-    name: "Bukamon",
+let moastray = {
+    name: "MO:Astray",
     level: "In-Training II",
     type: "Lesser",
     attribute: "None",
@@ -138,8 +139,8 @@ let digimon14 = {
     picture: "pukamon.jpg"
 }
 
-let digimon15 = {
-    name: "Mantaraymon (X Antibody)",
+let guiltygear = {
+    name: "Guilty Gear",
     level: "Champion",
     type: "Aquatic",
     attribute: "Vaccine",
@@ -148,8 +149,8 @@ let digimon15 = {
     picture: "mantaraymon_x.jpg"
 }
 
-let digimon16 = {
-    name: "Filmon",
+let hyperlightdrifter = {
+    name: "Hyperlight Drifter",
     level: "Champion",
     type: "Beast Man",
     attribute: "Data",
@@ -158,8 +159,8 @@ let digimon16 = {
     picture: "filmon.jpg"
 }
 
-let digimon17 = {
-    name: "Magnamon",
+let gurrenlagann = {
+    name: "Gurren Lagann",
     level: "Armor",
     type: "Holy Knight",
     attribute: "Free",
@@ -168,8 +169,8 @@ let digimon17 = {
     picture: "magnamon.jpg"
 }
 
-let digimon18 = {
-    name: "Exermon",
+let va11halla = {
+    name: "Va-11 Hall-A",
     level: "Champion",
     type: "Insectoid",
     attribute: "Data",
@@ -178,6 +179,26 @@ let digimon18 = {
     picture: "exermon.jpg"
 }
 
-let digimons=[
-    digimon1,digimon2,digimon3,digimon4,digimon5,digimon6,digimon7,digimon8,digimon9,digimon10,digimon11,digimon12,digimon13,digimon14,digimon15,digimon16,digimon17,digimon18
+let katanazero = {
+    name: "Katana Zero",
+    level: "Champion",
+    type: "Insectoid",
+    attribute: "Data",
+    specialMove: "Insec-Mind, Defib Shock",
+    profile: "A Digimon that Digivolved from data on yoga teachings. Exermon lives primarily in alpine regions, where it practices its own unique fighting style that makes use of its peculiar invertebrate-like movements.",
+    picture: "exermon.jpg"
+}
+
+let starbound = {
+    name: "Starbound",
+    level: "Champion",
+    type: "Insectoid",
+    attribute: "Data",
+    specialMove: "Insec-Mind, Defib Shock",
+    profile: "A Digimon that Digivolved from data on yoga teachings. Exermon lives primarily in alpine regions, where it practices its own unique fighting style that makes use of its peculiar invertebrate-like movements.",
+    picture: "exermon.jpg"
+}
+
+let planets = [
+    bionicle, outerwilds, einhaender, ultrakill, warhammer40k, deeprockgalactic, deadspace, digimon, planetes, monsterverse, metalgearsolid, furi, moastray, guiltygear, hyperlightdrifter, gurrenlagann, va11halla, katanazero, starbound, riskofrain
 ]

@@ -1,4 +1,3 @@
-let mainpageUrl = `main.html`;
 if (!localStorage["planets"]) {
   let planets = [];
   for (let i = 0; i < 20; i++) {

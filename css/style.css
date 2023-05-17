@@ -11,7 +11,7 @@ body {
     grid-template-columns: repeat(10, 1fr);
 }
 
-.card{
+.header{
     border: rgb(16, 66, 141) solid 10px;
     border-radius: 15px;
     text-align: center;

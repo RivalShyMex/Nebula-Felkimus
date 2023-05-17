@@ -1,9 +1,14 @@
 let ergstring = "";
+if (!localStorage["planetIndex"]) {
+    window.open('./index.html', '_self')
+  }
 
+  let planetIndex = JSON.parse(localStorage['planetIndex'])
+  generateCards();
 function generateCards() {
-            ergstring += `<div class="card">
-            <p>Test at page</p>
-              <p>Test at ${localStorage["planetindex"]} page</p>
+            console.log(planets[planetIndex])
+            ergstring += `<div class="header">
+                    <p>${planets[planetIndex].name}</p>
                 </div>`
     document.getElementById('contentgenerate').innerHTML = ergstring
 }

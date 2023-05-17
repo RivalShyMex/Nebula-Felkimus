@@ -6,6 +6,7 @@ if (!localStorage["planets"]) {
   localStorage["planets"] = JSON.stringify(planets);
 }
   let planets = JSON.parse(localStorage["planets"]);
+  console.log(localStorage["planets"]);
   let string = "";    
   for (let i = 1; i <= planets.length; i++) {
     if(planets[i]){
@@ -18,6 +19,6 @@ if (!localStorage["planets"]) {
   }
   document.getElementById("planets").innerHTML = string;
   function openPlanet(i){
-        localStorage["planetindex"] = JSON.stringify(i);
-        window.open("planet.html", "_self");
+        localStorage["planetIndex"] = JSON.stringify(i);
+        window.open("planet.html", "_self");äßool
   }
