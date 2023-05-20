@@ -1,6 +1,6 @@
 if (!localStorage["planets"]) {
   let planets = [];
-  for (let i = 0; i < 20; i++) {
+  for (let i = 1; i < 20; i++) {
     planets.push(false)
   }
   localStorage["planets"] = JSON.stringify(planets);
@@ -11,11 +11,12 @@ function RollDice() {
 
   planets[number] = true;
   console.log("click");
+  console.log(number);
   localStorage["planets"] = JSON.stringify(planets);
 
   // Navigate to the main page
   setTimeout(() => {
     window.open("index.html", "_self");
-  }, 500);
+  }, 5000);
 
 }

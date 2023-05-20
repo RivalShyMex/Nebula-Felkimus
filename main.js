@@ -8,7 +8,7 @@ if (!localStorage["planets"]) {
   let planets = JSON.parse(localStorage["planets"]);
   console.log(localStorage["planets"]);
   let string = "";    
-  for (let i = 1; i <= planets.length; i++) {
+  for (let i = 0; i <= planets.length; i++) {
     if(planets[i]){
         string += `<img src="../images/planet${i}.png" onclick="openPlanet(${i})">`
 

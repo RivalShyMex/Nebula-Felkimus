@@ -1,22 +1,22 @@
 PLANETS
 
-Risk of Rain
+Risk of Rain - second
 Bionicle - first 
-Outer Wilds
-Einhänder
-Ultrakill
-Warhammer 40K
-Deep Rock Galactic
-Dead Space
-Digimon
-Planetes
-Monsterverse (Godzilla etc)
-Metal Gear (Solid)
-Furi
-MO:Astray
-Guilty Gear
-Hyperlight Drifter
-Gurren Lagann
-Va-11 Hall-A
-Katana Zero 
-Starbound 
+Outer Wilds - third
+Einhänder - fourth
+Ultrakill - fifth
+Warhammer 40K - sixth
+Deep Rock Galactic - seventh
+Dead Space - eight
+Digimon - nineth
+Planetes - tenth 
+Godzilla - eleventh
+Metal Gear (Solid) - twelveth
+Furi - thirteeneth
+MO:Astray - fourteeneth
+Guilty Gear - fiveteeneth
+Hyperlight Drifter - sixteeneth
+Gurren Lagann - seventh
+Va-11 Hall-A - eighteeneth
+Katana Zero - nineteeneth
+Starbound - twentieth

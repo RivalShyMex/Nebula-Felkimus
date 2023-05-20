@@ -7,9 +7,14 @@ if (!localStorage["planetIndex"]) {
   generateCards();
 function generateCards() {
             console.log(planets[planetIndex])
+            console.log(planets[planetIndex].number)
             ergstring += `<div class="header">
-                    <p>${planets[planetIndex].name}</p>
-                </div>`
+                    <img src="../images/${planets[planetIndex].logo}" alt="logo">
+                    </div>
+                    <div class="maincontent">
+                    <p>${planets[planetIndex].description}</p>
+                    </div>
+                    `
     document.getElementById('contentgenerate').innerHTML = ergstring
 }
 

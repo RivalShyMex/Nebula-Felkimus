@@ -4,18 +4,14 @@ body {
     background-size: cover;
 }
 
-#planets{
+#planets {
     margin-right: 5%;
     width: 50%;
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(5, 1fr);
 }
 
-.header{
-    border: rgb(16, 66, 141) solid 10px;
-    border-radius: 15px;
-    text-align: center;
-    background-color: #d86100;
+.header {
     margin: 1%;
-    width: 70%;
+    height: 5%;
 }
