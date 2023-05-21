@@ -20,5 +20,12 @@ if (!localStorage["planets"]) {
   document.getElementById("planets").innerHTML = string;
   function openPlanet(i){
         localStorage["planetIndex"] = JSON.stringify(i);
-        window.open("planet.html", "_self");äßool
+        window.open("planet.html", "_self");
   }
+
+ /*let animation = anime({
+    targets : "#solar_system",
+    translateX : "100%",
+    duration : 1000, 
+    easing: "easeInOutQuad"
+  });*/
