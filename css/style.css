@@ -1,5 +1,5 @@
-body {
-    /*background-image: url(../images/planets.png);*/
+html {
+    background-image: url(../images/background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,4 +14,14 @@ body {
 .header {
     margin: 1%;
     height: 5%;
+}
+
+#contentgenerate{
+    border: #7d12ff 15px solid;
+    border-radius: 20px;
+    outline: none;
+    box-shadow: 0 0 30px #200589;
+}
+#contentgenerate p{
+    color: #ab20fd;
 }
