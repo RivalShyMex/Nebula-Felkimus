@@ -106,7 +106,7 @@ let deadspace = {
     review3: "",
     describedbyme: "Spooky spaceship full of weird creatures versus an engineer with a tool, how badass",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "The Dead Space franchise is set in the future, where humanity has been able to colonize other planets. By the 23rd century, humanity has used up most of Earth's natural resources, and the world governing body, EarthGov, has fleets of planet crackers, giant mining spaceships that harvest resources by breaking apart other planets, to gather materials for humanity to sustain itself.[1] During the 23rd century, EarthGov researchers find an alien artifact in the Chicxulub crater, which they call the Marker. The Marker emits a persistent electromagnetic field from seemingly no source, which researchers believe could be used to provide limitless energy and solve Earth's ecological crisis. Work begins to reverse engineer the Marker on various research stations across the colonies, but they are forced to use bismuth instead of an unidentified alien material, resulting in these duplicates being colored red instead of black as the original.",
     number: "7"
 }
 
@@ -120,7 +120,7 @@ let digimon = {
     review3: "",
     describedbyme: "Some of these creatures are so cute and yet some are so cool, what a fun series",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "Though most works in the franchise are contained within their own continuity, they all share basic setting and lore elements. Most Digimon stories begin with a human child coming into contact with a Digimon, either through accidentally entering the Digital World or encountering a Digimon who has come into the human world. The child or children will find themselves equipped with a digivice, a device modelled after the series' virtual pets that enables them to empower their partner Digimon.",
     number: "8"
 }
 
@@ -134,7 +134,7 @@ let planetes = {
     review3: "",
     describedbyme: "This manga has legit make me appreciate life even more, also the art is so pretty",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "The story of Planetes follows the crew of the DS-12 Toy Box of the Space Debris Section, a unit of Technora Corporation. Debris Section's purpose is to prevent the damage or destruction of satellites, space stations and spacecraft from collision with space debris in Earth's and the Moon's orbits. They use a number of methods to dispose of the debris (mainly by burning it via atmospheric reentry or through salvage), accomplished through the use of EVA suits.",
     number: "9"
 }
 
@@ -148,7 +148,7 @@ let godzilla = {
     review3: "",
     describedbyme: "Godzilla goes roarrr, I go woahhh",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "Godzilla is a prehistoric reptilian monster awakened and empowered by nuclear radiation. With the nuclear bombings of Hiroshima and Nagasaki and the Lucky Dragon 5 incident still fresh in the Japanese consciousness, Godzilla was conceived as a metaphor for nuclear weapons. Others have suggested that Godzilla is a metaphor for the United States, a giant beast woken from its slumber which then takes terrible vengeance on Japan. As the film series expanded, some stories took on less serious undertones, portraying Godzilla as an antihero, or a lesser threat who defends humanity. Later films address disparate themes and commentary including Japan's apathy and neglect of its imperial past, natural disasters, and the human condition.",
     number: "10"
 }
 
@@ -162,7 +162,7 @@ let metalgearsolid = {
     review3: "",
     describedbyme: "There are so many quotes that has been memed from this series that you could legit just have a converstation with those quotes",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "Metal Gear Solid 3: Snake Eater, which is chronologically the first game in the series, introduces Naked Snake (or Snake for short), an operative working for the fictional Force Operation X (FOX) unit of the CIA during the Cold War. The game focuses on the rise of Snake from an apprentice to a legendary soldier, as well as the downfall of his mentor and matriarchal figure, The Boss. After The Boss defects to the Soviet Union, Snake is sent into Russia to kill her and end the threat posed by Yevgeny Borisovitch Volgin, a GRU colonel with plans to overthrow the Soviet government. Snake's heroics during the game earn him the nickname Big Boss at the end. The origins of The Patriots, an organization founded by Zero, are also explored. ",
     number: "11"
 }
 
@@ -176,7 +176,7 @@ let furi = {
     review3: "",
     describedbyme: "This game and it's soundtrack is so cool, that's all I can legit say",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "A mysterious man known only as The Stranger spends his existence receiving endless torture within a highly advanced prison, composed of ten islands floating in orbit above a planet's surface. At the beginning of the game, an enigmatic man wearing a rabbit disguise who is known as The Voice frees The Stranger, gives him a sword and gun, and encourages him to fight for his freedom.",
     number: "12"
 }
 
@@ -190,7 +190,7 @@ let moastray = {
     review3: "",
     describedbyme: "I mostly went into this game blind, the story, music and the enviroment was so pretty",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "Born in a laboratory with sinister leanings, the green jelly-like MO is aware that it must take on a mission of immense importance. Under the guidance of the mysterious mutterings in its ear, MO uses jumping, sticking, and other strange abilities to overcome one obstacle after another. What it's not aware of is that it's headed right towards the shocking truth...",
     number: "13"
 }
 
@@ -204,7 +204,7 @@ let guiltygear = {
     review3: "",
     describedbyme: "One of the fighting games ever made",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "The story is set in a world where magic has replaced almost every aspect of modern-day technology. But through its dire consequences leading up to the creation of the gears, the world has nearly become a post-apocalyptic environment due to Crusades’ effects on the world. But even though the world is still recovering, much work is still needed to be done and the mysteries behind the creation of the gears have yet to be resolved. The story mostly focuses on Sol Badguy, a brash bounty hunter and die hard Queen enthusiast who, feeling guilty of his past creations which in turn, results in him becoming a gear, decides to make up for his own actions through fighting them whilst keeping his own identity a secret. However, his own reluctance to help others, as well as his selfish actions, often attracts the attention of Ky Kiske, his own rival and former comrade, who tries to get into fights with him whenever annoyed. Throughout the story, Sol enacts his own vengeance upon That Man, who is mainly the cause behind most of the series conflicts, through killing him.",
     number: "14"
 }
 
@@ -218,7 +218,7 @@ let hyperlightdrifter = {
     review3: "",
     describedbyme: "Ah yes heart problem the game, I love it",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "The player controls the Drifter, a character that has access to technology that has long been forgotten by the inhabitants of the game's world and is suffering from an unspecified illness. The story concept was inspired by lead developer Alx Preston's heart disease, and has been likened by others to Studio Ghibli's Castle in the Sky, while Preston cites the studio's Nausicaä of the Valley of the Wind as inspiration for the game's world.",
     number: "15"
 }
 
@@ -232,7 +232,7 @@ let gurrenlagann = {
     review3: "",
     describedbyme: "The first ever anime I watched alone that I knew was an anime and still my favourite, I watched back in 2016",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "Gurren Lagann takes place in a future where Earth is ruled by the Spiral King, Lordgenome, who forces mankind to live in isolated subterranean villages. These villages have no contact with the surface world or other villages and are under constant threat of earthquakes. Selected villagers called diggers are conscripted to expand their homes deeper underground. Simon, a meek young digger ostracized by his peers in Giha village, finds solace in his best friend, an older brother figure who is an eccentric delinquent named Kamina. Kamina encourages Simon to join his gang, Team Gurren, to help him achieve his dream of visiting the surface world. One day, Simon unearths a drill-shaped key called a Core Drill, followed by a small mecha resembling a face called a Gunmen. Shortly thereafter, a huge Gunmen crashes through the ceiling and begins attacking the village, followed by a girl named Yoko, who attempts to repel the Gunmen. Simon uses his Core Drill to activate the smaller Gunmen (which Kamina names Lagann) and its drilling-based abilities. He successfully uses it to destroy the larger Gunmen and break through the ceiling to bring him and Kamina to the surface world.",
     number: "16"
 }
 
@@ -246,7 +246,7 @@ let va11halla = {
     review3: "",
     describedbyme: "Peak fiction, story telling, great, music, amazing, characters, abosulte loveable",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "The game puts the player in the role of a bartender at the eponymous VA-11 Hall-A, a small bar in a dystopian downtown which is said to attract the most fascinating of people. Gameplay consists of players making and serving drinks to bar attendees while listening to their stories and experiences.",
     number: "17"
 }
 
@@ -260,7 +260,7 @@ let katanazero = {
     review3: "",
     describedbyme: "This is one of the video games I first ever beaten and it was so much, really hyped for the DLC",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "Katana Zero follows a neo-noir-style storyline, with psychological horror and black comedy elements, set in a dystopian metropolis after a war. Subject Zero is an amnesiac veteran with precognitive abilities. He assassinates drug dealers for his psychiatrist, who acts as his handler. The news media ascribes these killings to a serial killer known as the Dragon. Zero experiences recurring nightmares of a child, who he identifies as himself, in a hut. A scientist runs in, warns the child to hide, and is shot moments later by a soldier. He discusses his nightmares with the psychiatrist, who supplies him with a drug as treatment. Zero also befriends a young girl living next door to his apartment, and becomes attached to her.",
     number: "18"
 }
 
@@ -274,7 +274,7 @@ let starbound = {
     review3: "",
     describedbyme: "One of the exploring games ever, lot of fun to just doing the most random stuff",
     picture1: "",
-    shortpartofplot: "",
+    shortpartofplot: "Starbound begins with the player inside a spacecraft after the destruction of Earth, home of an intergalactic peacekeeping organization known as the Terrene Protectorate, while just having graduated from its ranks. With nothing to guide it, the shuttle shoots into space without direction, becoming lost in a sea of stars. The space shuttle orbits a habitable planet and an adventure begins that takes the player hurtling across the universe.",
     number: "19"
 }
 
