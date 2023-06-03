@@ -4,6 +4,11 @@ let bionicle = {
     logo: "bioniclelogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "One of the best toyline that ever existed",
+    picture1: "",
+    shortpartofplot: "Set in a science fantasy universe featuring a diversity of cyborgs, the main story depicts the exploits of the Toa, heroic beings with elemental powers whose duty is to protect the Matoran, the prime populace of their world, and reawaken the Great Spirit Mata Nui, their god-like guardian who was forced into a coma by the actions of the evil Makuta.",
     number: "0"
 }
 
@@ -13,6 +18,11 @@ let riskofrain = {
     logo: "riskofrainlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "If this game would be a real life drug, it would be probably illegal because it's so addicting",
+    picture1: "",
+    shortpartofplot: "In Risk of Rain, players control the survivor of a space freighter crash on a strange planet. Players attempt to survive by killing monsters and collecting items that can boost their offensive and defensive abilities. The game features a difficulty scale that increases with time, requiring the player to choose between spending time building experience and completing levels quickly before the monsters become more difficult.",
     number: "1"
 }
 
@@ -22,6 +32,11 @@ let outerwilds = {
     logo: "outerwildslogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "", 
+    describedbyme: "This isn't a video game, this is a once in a life time exprience",
+    picture1: "",
+    shortpartofplot: "The player takes the role of an unnamed space explorer preparing for their first solo flight. After being involuntarily paired with a statue on their home planet made by the Nomai, an ancient and mysterious race that had once colonized the system, the player discovers they are trapped in a time loop. Every loop resets when the sun goes supernova after 22 minutes, or when the player-character otherwise dies.",
     number: "2"
 }
 
@@ -31,15 +46,25 @@ let einhaender = {
     logo: "einhaenderlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "It might be a simple game but a really good one with a great soundtrack",
+    picture1: "",
+    shortpartofplot: "The game is based on the story of the Greek's mythology of Selene and Endymion and set in a fictional future during a war between the Earth and the Moon. The player is part of the Moon's forces and must invade enemy territories to gather reconnaissance and enemy weapons.",
     number: "3"
 }
 
 let ultrakill = {
     description: "Ultrakill (stylized in all caps as ULTRAKILL) is an upcoming first-person shooter platformer video game developed by Arsi Hakita Patala and published by New Blood Interactive. It was released through Early Access on Steam for Microsoft Windows on September 3, 2020. The game uses retro-style graphics and movement capabilities similar to those of 1990s first-person shooters such as Quake and Doom.",
-    developedby: "	Arsi Hakita Patala",
+    developedby: "Arsi Hakita Patala",
     logo: "ultrakilllogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "One of the video games ever",
+    picture1: "",
+    shortpartofplot: "In the universe of Ultrakill, God has decided to abandon Heaven, Hell, and the Earth, after discovering humanity has found and is interacting with the Nine Layers of Hell. This results in an angelic Holy Council taking over Heaven in God's stead, damned souls revolting against the Council across multiple layers of Hell, and the extinction of humanity via robotic revolution. The player controls V1, a machine that uses blood as a fuel source.",
     number: "4"
 }
 
@@ -49,6 +74,11 @@ let warhammer40k = {
     logo: "warhammer40klogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "If all of the lore would be written into one book, we probably need a whole train station size building or something",
+    picture1: "",
+    shortpartofplot: "Most Warhammer 40,000 fiction is set around the turn of the 42nd millennium (about 39,000 years in the future). Although Warhammer 40,000 is mostly a science-fiction setting, it adapts a number of tropes from fantasy fiction, such as magic, supernatural beings, daemonic possession, and fantasy races such as orcs and elves; psykers fill the role of wizards in the setting. The setting of this game inherits many fantasy tropes from Warhammer Fantasy (a similar wargame from Games Workshop), and by extension from Dungeons and Dragons. Games Workshop used to make miniature models for use in Dungeons and Dragons, and Warhammer Fantasy was originally meant to encourage customers to buy more of their miniature models. Warhammer 40,000 itself was originally conceived as a science-fiction spin-off of Warhammer Fantasy.",
     number: "5"
 }
 
@@ -58,6 +88,11 @@ let deeprockgalactic = {
     logo: "deeprockgalacticlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "Being a dwarf that drinks before work and is still able to do his job in this game is one of the most enjoyable moment that happened to me",
+    picture1: "",
+    shortpartofplot: "Deep Rock Galactic is set on the alien planet of Hoxxes IV, whose caves are rich in minerals but filled with hostile wildlife and hazardous environments. The player controls a dwarf miner employed by Deep Rock Galactic, an intergalactic mining corporation that callously sends employees into the caves of Hoxxes IV to extract resources. Players can team up with up to three other dwarfs on missions into the planet, where they must navigate procedurally generated caves and complete objectives while fighting alien swarms.",
     number: "6"
 }
 
@@ -67,6 +102,11 @@ let deadspace = {
     logo: "deadspacelogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "Spooky spaceship full of weird creatures versus an engineer with a tool, how badass",
+    picture1: "",
+    shortpartofplot: "",
     number: "7"
 }
 
@@ -76,6 +116,11 @@ let digimon = {
     logo: "digimonlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "Some of these creatures are so cute and yet some are so cool, what a fun series",
+    picture1: "",
+    shortpartofplot: "",
     number: "8"
 }
 
@@ -85,6 +130,11 @@ let planetes = {
     logo: "planeteslogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "This manga has legit make me appreciate life even more, also the art is so pretty",
+    picture1: "",
+    shortpartofplot: "",
     number: "9"
 }
 
@@ -94,6 +144,11 @@ let godzilla = {
     logo: "godzillalogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "Godzilla goes roarrr, I go woahhh",
+    picture1: "",
+    shortpartofplot: "",
     number: "10"
 }
 
@@ -103,6 +158,11 @@ let metalgearsolid = {
     logo: "metalgearsolidlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "There are so many quotes that has been memed from this series that you could legit just have a converstation with those quotes",
+    picture1: "",
+    shortpartofplot: "",
     number: "11"
 }
 
@@ -112,6 +172,11 @@ let furi = {
     logo: "furilogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "This game and it's soundtrack is so cool, that's all I can legit say",
+    picture1: "",
+    shortpartofplot: "",
     number: "12"
 }
 
@@ -121,6 +186,11 @@ let moastray = {
     logo: "moastraylogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "I mostly went into this game blind, the story, music and the enviroment was so pretty",
+    picture1: "",
+    shortpartofplot: "",
     number: "13"
 }
 
@@ -130,6 +200,11 @@ let guiltygear = {
     logo: "guiltygearlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "One of the fighting games ever made",
+    picture1: "",
+    shortpartofplot: "",
     number: "14"
 }
 
@@ -139,6 +214,11 @@ let hyperlightdrifter = {
     logo: "hyperlightdrifterlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "Ah yes heart problem the game, I love it",
+    picture1: "",
+    shortpartofplot: "",
     number: "15"
 }
 
@@ -148,6 +228,11 @@ let gurrenlagann = {
     logo: "tengentoppagurrenlagannlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "The first ever anime I watched alone that I knew was an anime and still my favourite, I watched back in 2016",
+    picture1: "",
+    shortpartofplot: "",
     number: "16"
 }
 
@@ -157,6 +242,11 @@ let va11halla = {
     logo: "va11hallalogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "Peak fiction, story telling, great, music, amazing, characters, abosulte loveable",
+    picture1: "",
+    shortpartofplot: "",
     number: "17"
 }
 
@@ -166,6 +256,11 @@ let katanazero = {
     logo: "katanazerologo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "This is one of the video games I first ever beaten and it was so much, really hyped for the DLC",
+    picture1: "",
+    shortpartofplot: "",
     number: "18"
 }
 
@@ -175,6 +270,11 @@ let starbound = {
     logo: "starboundlogo.png",
     video: "",
     review1: "",
+    review2: "",
+    review3: "",
+    describedbyme: "One of the exploring games ever, lot of fun to just doing the most random stuff",
+    picture1: "",
+    shortpartofplot: "",
     number: "19"
 }
 

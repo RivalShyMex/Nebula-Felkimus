@@ -1,16 +1,16 @@
 if (!localStorage["planets"]) {
-  let planets = [];
+  let planetsCollection = [];
   for (let i = 0; i < 20; i++) {
-    planets.push(false)
+    planetsCollection.push(false)
   }
-  localStorage["planets"] = JSON.stringify(planets);
+  localStorage["planets"] = JSON.stringify(planetsCollection);
 }
-  let planets = JSON.parse(localStorage["planets"]);
+  let planetsCollection = JSON.parse(localStorage["planets"]);
   console.log(localStorage["planets"]);
   let string = "";    
-  for (let i = 0; i <= planets.length; i++) {
-    if(planets[i]){
-        string += `<img src="../images/planet${i}.png" onclick="openPlanet(${i})">`
+  for (let i = 0; i <= planetsCollection.length; i++) {
+    if(planetsCollection[i]){
+        string += `<img src="../images/planet${i}.png" onclick="openPlanet(${i})" class="movePlanets${i}">`
 
     } 
     else{

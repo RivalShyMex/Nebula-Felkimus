@@ -1,14 +1,30 @@
+@font-face {
+    font-family: android;
+    src: url(../fonts/Android.ttf);
+}
+
+@font-face {
+    font-family: cascadia;
+    src: url(../fonts/Cascadia.ttf);
+}
+
 html {
     background-image: url(../images/background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+p {
+    font-family: cascadia;
+}
+
+
 #planets {
     margin-right: 5%;
-    width: 50%;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: 30% 30% 25% 5%;
+    grid-template-rows: 5% 10% 5% 10% 5%;
+    margin-left: 10%;
 }
 
 .header {
@@ -16,12 +32,197 @@ html {
     height: 5%;
 }
 
-#contentgenerate{
+#metalsun {
+    position: relative;
+    left: 940px;
+    top: 350px;
+}
+
+#contentgenerate {
     border: #7d12ff 15px solid;
     border-radius: 20px;
     outline: none;
     box-shadow: 0 0 30px #200589;
 }
-#contentgenerate p{
-    color: #ab20fd;
+
+.movePlanets0 {
+    margin-left: 20%;
+    position: relative;
+    top: 50%;
+}
+
+.movePlanets1 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets2 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets3 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets4 {
+    margin-left: 15%;
+    position: relative;
+    bottom: 70%;
+}
+
+.movePlanets5 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets6 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets7 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets8 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets9 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets10 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets11 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets12 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets13 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets14 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets15 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets16 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets17 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets18 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.movePlanets19 {
+    margin-left: 15%;
+    position: relative;
+}
+
+.allcontent0 p {
+    color: red;
+}
+
+.allcontent1 p {
+    color: #200589;
+}
+
+.allcontent2 p {
+    color: red;
+}
+
+.allcontent3 p {
+    color: red;
+}
+
+.allcontent4 p {
+    color: red;
+}
+
+.allcontent5 p {
+    color: red;
+}
+
+.allcontent6 p {
+    color: red;
+}
+
+.allcontent7 p {
+    color: red;
+}
+
+.allcontent8 p {
+    color: red;
+}
+
+.allcontent9 p {
+    color: red;
+}
+
+.allcontent10 p {
+    color: red;
+}
+
+.allcontent11 p {
+    color: red;
+}
+
+.allcontent12 p {
+    color: red;
+}
+
+.allcontent13 p {
+    color: red;
+}
+
+.allcontent14 p {
+    color: red;
+}
+
+.allcontent15 p {
+    color: red;
+}
+
+.allcontent16 p {
+    color: red;
+}
+
+.allcontent17 p {
+    color: red;
+}
+
+.allcontent18 p {
+    color: red;
+}
+
+.allcontent19 p {
+    color: red;
 }
