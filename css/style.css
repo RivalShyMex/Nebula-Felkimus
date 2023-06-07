@@ -18,6 +18,9 @@ p {
     font-family: cascadia;
 }
 
+#planetsBackground{
+
+}
 
 #planets {
     margin-right: 5%;
@@ -39,10 +42,10 @@ p {
 }
 
 #contentgenerate {
-    border: #7d12ff 15px solid;
+    /*border: #7d12ff 15px solid;
     border-radius: 20px;
     outline: none;
-    box-shadow: 0 0 30px #200589;
+    box-shadow: 0 0 30px #200589;*/
 }
 
 .movePlanets0 {
@@ -225,4 +228,97 @@ p {
 
 .allcontent19 p {
     color: red;
+}
+
+.backgroundContent0{
+    background-color: aqua;
+}
+
+.backgroundContent1{
+    background-color: rgb(4, 0, 255);
+
+}
+
+.backgroundContent2{
+    background-color: rgb(21, 255, 0);
+}
+
+.backgroundContent3{
+    background-color: rgb(229, 255, 0);
+
+}
+
+.backgroundContent4{
+    background-color: rgb(255, 0, 0);
+
+}
+
+.backgroundContent5{
+    background-color: rgb(255, 0, 242);
+
+}
+
+.backgroundContent6{
+    background-color: rgb(255, 0, 98);
+
+}
+
+.backgroundContent7{
+    background-color: rgb(19, 97, 51);
+
+}
+
+.backgroundContent9{
+    background-color: rgb(43, 167, 84);
+
+}
+
+.backgroundContent10{
+    background-color: rgb(184, 40, 40);
+
+}
+
+.backgroundContent11{
+    background-color: rgb(17, 12, 12);
+
+}
+
+.backgroundContent12{
+    background-color: rgb(90, 83, 83);
+
+}
+
+.backgroundContent13{
+    background-color: rgb(247, 184, 184);
+
+}
+
+.backgroundContent14{
+    background-color: rgb(125, 161, 78);
+
+}
+
+.backgroundContent15{
+    background-color: rgb(88, 63, 15);
+
+}
+
+.backgroundContent16{
+    background-color: rgb(51, 115, 151);
+
+}
+
+.backgroundContent17{
+    background-color: rgb(67, 177, 100);
+
+}
+
+.backgroundContent18{
+    background-color: rgb(87, 23, 100);
+
+}
+
+.backgroundContent19{
+    background-color: rgb(5, 54, 94);
+
 }
