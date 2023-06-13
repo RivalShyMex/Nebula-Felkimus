@@ -1,3 +1,4 @@
+//
 PLANETS
 
 Bionicle - first : goldish brown, light grey
@@ -20,3 +21,37 @@ Gurren Lagann - seventeeneth : oranges, reds and black
 Va-11 Hall-A - eighteeneth : blues, pinkish reds and blackss
 Katana Zero - nineteeneth : neon blues, pinks, purples and reds
 Starbound - twentieth : greys and yellows
+
+//
+
+
+**
+DOOR AND DICE
+
+Do the secret code, hide it in the 20 planets(doesn't need to be at every planet)
+Code is (look in discord information group)
+Make some animations
+
+**
+
+--
+SPACESHIP
+
+The metallic sun is going to be a spaceship instead (main hub)
+Some animations blender(dice on table and door, maybe also the background)
+
+--
+
+==
+CONTENTS
+
+DON'T FORGET TO DO THEM, animations, videos, pictures, text (no need to be long except the review ones)
+
+==
+
+..
+SECRET PAGE
+
+Make the blender/SFM stuff and do the video as well
+Music: I really want to stay at your home(Cyberpunk 2077) and Scourge of the Universe(might change)(Terraria Calamity)
+..

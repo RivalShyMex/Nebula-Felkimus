@@ -16,7 +16,7 @@ function generateCards() {
                     </div>
                     <div class="maincontent">
                     <p>${planets[planetIndex].description}</p>
-                    <iframe width="560" height="315" src="${planets[planetIndex].trailer}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="${planets[planetIndex].trailer}" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>
                     </div>
                     </div>
