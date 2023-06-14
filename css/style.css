@@ -9,17 +9,13 @@
 }
 
 html {
-    background-image: url(../images/background.jpeg);
+    background-image: url(../images/background.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 p {
     font-family: cascadia;
-}
-
-#planetsBackground{
-
 }
 
 #planets {
@@ -39,13 +35,6 @@ p {
     position: relative;
     left: 940px;
     top: 350px;
-}
-
-#contentgenerate {
-    /*border: #7d12ff 15px solid;
-    border-radius: 20px;
-    outline: none;
-    box-shadow: 0 0 30px #200589;*/
 }
 
 .movePlanets0 {
@@ -150,175 +139,175 @@ p {
     position: relative;
 }
 
-.allcontent0 p {
+.mainallcontent0 p {
     color: #2F1F03;
 }
 
-.allcontent1 p {
+.mainallcontent1 p {
     color: #FFFFFF;
 }
 
-.allcontent2 p {
+.mainallcontent2 p {
     color: #035A82;
 }
 
-.allcontent3 p {
+.mainallcontent3 p {
     color: #01116A;
 }
 
-.allcontent4 p {
+.mainallcontent4 p {
     color: #FCA055;
 }
 
-.allcontent5 p {
+.mainallcontent5 p {
     color: red;
 }
 
-.allcontent6 p {
+.mainallcontent6 p {
     color: red;
 }
 
-.allcontent7 p {
+.mainallcontent7 p {
     color: red;
 }
 
-.allcontent8 p {
+.mainallcontent8 p {
     color: red;
 }
 
-.allcontent9 p {
+.mainallcontent9 p {
     color: red;
 }
 
-.allcontent10 p {
+.mainallcontent10 p {
     color: red;
 }
 
-.allcontent11 p {
+.mainallcontent11 p {
     color: red;
 }
 
-.allcontent12 p {
+.mainallcontent12 p {
     color: red;
 }
 
-.allcontent13 p {
+.mainallcontent13 p {
     color: red;
 }
 
-.allcontent14 p {
+.mainallcontent14 p {
     color: red;
 }
 
-.allcontent15 p {
+.mainallcontent15 p {
     color: red;
 }
 
-.allcontent16 p {
+.mainallcontent16 p {
     color: red;
 }
 
-.allcontent17 p {
+.mainallcontent17 p {
     color: red;
 }
 
-.allcontent18 p {
+.mainallcontent18 p {
     color: red;
 }
 
-.allcontent19 p {
+.mainallcontent19 p {
     color: red;
 }
 
-.backgroundContent0{
+.mainbackgroundContent0{
     background-color: #ceb784b2; 
 }
 
-.backgroundContent1{
+.mainbackgroundContent1{
     background-color: #570066b2;
 
 }
 
-.backgroundContent2{
+.mainbackgroundContent2{
     background-color: #FF8000b2;
 }
 
-.backgroundContent3{
+.mainbackgroundContent3{
     background-color: #40BFCDb2;
 
 }
 
-.backgroundContent4{
+.mainbackgroundContent4{
     background-color: #720202b2;
 
 }
 
-.backgroundContent5{
+.mainbackgroundContent5{
     background-color: rgb(255, 0, 242);
 
 }
 
-.backgroundContent6{
+.mainbackgroundContent6{
     background-color: rgb(255, 0, 98);
 
 }
 
-.backgroundContent7{
+.mainbackgroundContent7{
     background-color: rgb(19, 97, 51);
 
 }
 
-.backgroundContent9{
+.mainbackgroundContent9{
     background-color: rgb(43, 167, 84);
 
 }
 
-.backgroundContent10{
+.mainbackgroundContent10{
     background-color: rgb(184, 40, 40);
 
 }
 
-.backgroundContent11{
+.mainbackgroundContent11{
     background-color: rgb(17, 12, 12);
 
 }
 
-.backgroundContent12{
+.mainbackgroundContent12{
     background-color: rgb(90, 83, 83);
 
 }
 
-.backgroundContent13{
+.mainbackgroundContent13{
     background-color: rgb(247, 184, 184);
 
 }
 
-.backgroundContent14{
+.mainbackgroundContent14{
     background-color: rgb(125, 161, 78);
 
 }
 
-.backgroundContent15{
+.mainbackgroundContent15{
     background-color: rgb(88, 63, 15);
 
 }
 
-.backgroundContent16{
+.mainbackgroundContent16{
     background-color: rgb(51, 115, 151);
 
 }
 
-.backgroundContent17{
+.mainbackgroundContent17{
     background-color: rgb(67, 177, 100);
 
 }
 
-.backgroundContent18{
+.mainbackgroundContent18{
     background-color: rgb(87, 23, 100);
 
 }
 
-.backgroundContent19{
+.mainbackgroundContent19{
     background-color: rgb(5, 54, 94);
 
 }

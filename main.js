@@ -10,7 +10,7 @@ if (!localStorage["planets"]) {
   let string = "";    
   for (let i = 0; i <= planetsCollection.length; i++) {
     if(planetsCollection[i]){
-        string += `<img src="../images/planet${i}.png" onclick="openPlanet(${i})" class="movePlanets${i}">`
+        string += `<img src="../images/planet${i}.png" onclick="openPlanet(${i})" class="movePlanets${i}" alt="planets">`
 
     } 
     else{
