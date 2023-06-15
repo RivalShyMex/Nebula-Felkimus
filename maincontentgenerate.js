@@ -11,7 +11,7 @@ function generateCards() {
             ergstring += `
                     <div class="mainbackgroundContent${planetIndex}"> 
                     <div class="mainallcontent${planetIndex}">
-                    <div class="header">
+                    <div class="mainheader">
                     <img src="../images/${planets[planetIndex].logo}" alt="logo">
                     <p>'${planets[planetIndex].developedby}'</p>
                     <p>"${planets[planetIndex].describedbyme}"</p>
