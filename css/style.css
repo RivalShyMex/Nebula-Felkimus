@@ -18,6 +18,14 @@ p {
     font-family: cascadia;
 }
 
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: cascadia;
+}
+
 #planets {
     margin-right: 5%;
     display: grid;
@@ -26,7 +34,7 @@ p {
     margin-left: 10%;
 }
 
-.header img{
+.header img {
     margin: 1%;
     height: 5%;
 }
@@ -140,7 +148,7 @@ p {
 }
 
 .mainallcontent0 p {
-    color: #2F1F03;
+    color: #492f02;
 }
 
 .mainallcontent1 p {
@@ -148,11 +156,11 @@ p {
 }
 
 .mainallcontent2 p {
-    color: #035A82;
+    color: #15088b;
 }
 
 .mainallcontent3 p {
-    color: #01116A;
+    color: #09014e;
 }
 
 .mainallcontent4 p {
@@ -160,19 +168,19 @@ p {
 }
 
 .mainallcontent5 p {
-    color: red;
+    color: #c4c3c3;
 }
 
 .mainallcontent6 p {
-    color: red;
+    color: #cf8e00;
 }
 
 .mainallcontent7 p {
-    color: red;
+    color: #a76c1f;
 }
 
 .mainallcontent8 p {
-    color: red;
+    color: #ffae00;
 }
 
 .mainallcontent9 p {
@@ -219,95 +227,598 @@ p {
     color: red;
 }
 
-.mainbackgroundContent0{
-    background-color: #ceb784b2; 
+.mainbackgroundContent0 {
+    background-color: #ceb7849f;
 }
 
-.mainbackgroundContent1{
-    background-color: #570066b2;
-
-}
-
-.mainbackgroundContent2{
-    background-color: #FF8000b2;
-}
-
-.mainbackgroundContent3{
-    background-color: #40BFCDb2;
+.mainbackgroundContent1 {
+    background-color: #5700669f;
 
 }
 
-.mainbackgroundContent4{
-    background-color: #720202b2;
+.mainbackgroundContent2 {
+    background-color: #FF80009f;
+}
+
+.mainbackgroundContent3 {
+    background-color: #40BFCD9f;
 
 }
 
-.mainbackgroundContent5{
-    background-color: rgb(255, 0, 242);
+.mainbackgroundContent4 {
+    background-color: #7202029f;
 
 }
 
-.mainbackgroundContent6{
-    background-color: rgb(255, 0, 98);
+.mainbackgroundContent5 {
+    background-color: #0605559f;
 
 }
 
-.mainbackgroundContent7{
-    background-color: rgb(19, 97, 51);
+.mainbackgroundContent6 {
+    background-color: #3619089f;
 
 }
 
-.mainbackgroundContent9{
+.mainbackgroundContent7 {
+    background-color: #2516079f;
+
+}
+
+.mainbackgroundContent8 {
+    background-color: #02008a9f;
+
+}
+
+.mainbackgroundContent9 {
     background-color: rgb(43, 167, 84);
 
 }
 
-.mainbackgroundContent10{
+.mainbackgroundContent10 {
     background-color: rgb(184, 40, 40);
 
 }
 
-.mainbackgroundContent11{
+.mainbackgroundContent11 {
     background-color: rgb(17, 12, 12);
 
 }
 
-.mainbackgroundContent12{
+.mainbackgroundContent12 {
     background-color: rgb(90, 83, 83);
 
 }
 
-.mainbackgroundContent13{
+.mainbackgroundContent13 {
     background-color: rgb(247, 184, 184);
 
 }
 
-.mainbackgroundContent14{
+.mainbackgroundContent14 {
     background-color: rgb(125, 161, 78);
 
 }
 
-.mainbackgroundContent15{
+.mainbackgroundContent15 {
     background-color: rgb(88, 63, 15);
 
 }
 
-.mainbackgroundContent16{
+.mainbackgroundContent16 {
     background-color: rgb(51, 115, 151);
 
 }
 
-.mainbackgroundContent17{
+.mainbackgroundContent17 {
     background-color: rgb(67, 177, 100);
 
 }
 
-.mainbackgroundContent18{
+.mainbackgroundContent18 {
     background-color: rgb(87, 23, 100);
 
 }
 
-.mainbackgroundContent19{
+.mainbackgroundContent19 {
     background-color: rgb(5, 54, 94);
 
+}
+
+.charheader0>p,
+.charheader0>h1 {
+    color: #492f02;
+}
+
+.charheader1>p,
+.charheader1>h1 {
+    color: #FFFFFF;
+}
+
+.charheader2>p,
+.charheader2>h1 {
+    color: #15088b;
+}
+
+.charheader3>p,
+.charheader3>h1 {
+    color: #01116A;
+}
+
+.charheader4>p,
+.charheader4>h1 {
+    color: #FCA055;
+}
+
+.charheader5>p,
+.charheader5>h1 {
+    color: red;
+}
+
+.charheader6>p,
+.charheader6>h1 {
+    color: red;
+}
+
+.charheader7>p,
+.charheader7>h1 {
+    color: red;
+}
+
+.charheader8>p,
+.charheader8>h1 {
+    color: red;
+}
+
+.charheader9>p,
+.charheader9>h1 {
+    color: red;
+}
+
+.charheader10>p,
+.charheader10>h1 {
+    color: red;
+}
+
+.charheader11>p,
+.charheader11>h1 {
+    color: red;
+}
+
+.charheader12>p,
+.charheader12>h1 {
+    color: red;
+}
+
+.charheader13>p,
+.charheader13>h1 {
+    color: red;
+}
+
+.charheader14>p,
+.charheader14>h1 {
+    color: red;
+}
+
+.charheader15>p,
+.charheader15>h1 {
+    color: red;
+}
+
+.charheader16>p,
+.charheader16>h1 {
+    color: red;
+}
+
+.charheader17>p,
+.charheader17>h1 {
+    color: red;
+}
+
+.charheader18>p,
+.charheader18>h1 {
+    color: red;
+}
+
+.charheader19>p,
+.charheader19>h1 {
+    color: red;
+}
+
+.charcontent0 p {
+    color: #492f02;
+}
+
+.charcontent1 p {
+    color: #FFFFFF;
+}
+
+.charcontent2 p {
+    color: #15088b;
+}
+
+.charcontent3 p {
+    color: #01116A;
+}
+
+.charcontent4 p {
+    color: #FCA055;
+}
+
+.charcontent5 p {}
+
+.charcontent6 p {}
+
+.charcontent7 p {}
+
+.charcontent8 p {}
+
+.charcontent9 p {}
+
+.charcontent10 p {}
+
+.charcontent11 p {}
+
+.charcontent12 p {}
+
+.charcontent13 p {}
+
+.charcontent14 p {}
+
+.charcontent15 p {}
+
+.charcontent16 p {}
+
+.charcontent17 p {}
+
+.charcontent18 p {}
+
+.charcontent19 p {}
+
+.charlinks0 p {
+    color: #492f02;
+}
+
+.charlinks1 p {
+    color: #FFFFFF;
+}
+
+.charlinks2 p {
+    color: #15088b;
+}
+
+.charlinks3 p {
+    color: #01116A;
+}
+
+.charlinks4 p {
+    color: red;
+}
+
+.charlinks5 p {
+    color: red;
+}
+
+.charlinks6 p {
+    color: red;
+}
+
+.charlinks7 p {
+    color: red;
+}
+
+.charlinks8 p {
+    color: red;
+}
+
+.charlinks9 p {
+    color: red;
+}
+
+.charlinks10 p {
+    color: red;
+}
+
+.charlinks11 p {
+    color: red;
+}
+
+.charlinks12 p {
+    color: red;
+}
+
+.charlinks13 p {
+    color: red;
+}
+
+.charlinks14 p {
+    color: red;
+}
+
+.charlinks15 p {
+    color: red;
+}
+
+.charlinks16 p {
+    color: red;
+}
+
+.charlinks17 p {
+    color: red;
+}
+
+.charlinks18 p {
+    color: red;
+}
+
+.charlinks19 p {
+    color: red;
+}
+
+.charlinks0 p:hover {
+    color: #032f19;
+}
+
+.charlinks1 p:hover {
+    color: #032f19;
+}
+
+.charlinks2 p:hover {
+    color: #032f19;
+}
+
+.charlinks3 p:hover {
+    color: #032f19;
+}
+
+.charlinks4 p:hover {
+    color: #032f19;
+}
+
+.charlinks5 p:hover {
+    color: #032f19;
+}
+
+.charlinks6 p:hover {
+    color: #032f19;
+}
+
+.charlinks7 p:hover {
+    color: #032f19;
+}
+
+.charlinks8 p:hover {
+    color: #032f19;
+}
+
+.charlinks9 p:hover {
+    color: #032f19;
+}
+
+.charlinks10 p:hover {
+    color: #032f19;
+}
+
+.charlinks11 p:hover {
+    color: #032f19;
+}
+
+.charlinks12 p:hover {
+    color: #032f19;
+}
+
+.charlinks13 p:hover {
+    color: #032f19;
+}
+
+.charlinks14 p:hover {
+    color: #032f19;
+}
+
+.charlinks15 p:hover {
+    color: #032f19;
+}
+
+.charlinks16 p:hover {
+    color: #032f19;
+}
+
+.charlinks17 p:hover {
+    color: #032f19;
+}
+
+.charlinks18 p:hover {
+    color: #032f19;
+}
+
+.charlinks19 p:hover {
+    color: #032f19;
+}
+
+
+.charbackgroundContent0 {
+    background-color: #ceb7849f;
+}
+
+.charbackgroundContent1 {
+    background-color: #5700669f;
+
+}
+
+.charbackgroundContent2 {
+    background-color: #FF80009f;
+}
+
+.charbackgroundContent3{
+    background-color: #40bfcd9f;
+}
+
+.charbackgroundContent4 {
+    background-color: #7202029f;
+
+}
+
+.charbackgroundContent5 {
+    background-color: rgb(255, 0, 242);
+
+}
+
+.charbackgroundContent6 {
+    background-color: rgb(255, 0, 98);
+
+}
+
+.charbackgroundContent7 {
+    background-color: rgb(19, 97, 51);
+
+}
+
+.charbackgroundContent9 {
+    background-color: rgb(43, 167, 84);
+
+}
+
+.charbackgroundContent10 {
+    background-color: rgb(184, 40, 40);
+
+}
+
+.charbackgroundContent11 {
+    background-color: rgb(17, 12, 12);
+
+}
+
+.charbackgroundContent12 {
+    background-color: rgb(90, 83, 83);
+
+}
+
+.charbackgroundContent13 {
+    background-color: rgb(247, 184, 184);
+
+}
+
+.charbackgroundContent14 {
+    background-color: rgb(125, 161, 78);
+
+}
+
+.charbackgroundContent15 {
+    background-color: rgb(88, 63, 15);
+
+}
+
+.charbackgroundContent16 {
+    background-color: rgb(51, 115, 151);
+
+}
+
+.charbackgroundContent17 {
+    background-color: rgb(67, 177, 100);
+
+}
+
+.charbackgroundContent18 {
+    background-color: rgb(87, 23, 100);
+
+}
+
+.charbackgroundContent19 {
+    background-color: rgb(5, 54, 94);
+
+}
+
+.charpictures1 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures2 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures3 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures4 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures5 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures6 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures7 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures8 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures9 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures10 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures11 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures12 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures13 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures14 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures15 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures16 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures17 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures18 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.charpictures19 {
+    max-width: 50%;
+    max-height: 50%;
 }
