@@ -39,10 +39,12 @@ h1 {
     height: 5%;
 }
 
-#metalsun {
+#spaceship {
     position: relative;
-    left: 940px;
+    left: 140px;
     top: 350px;
+    width: 10%;
+    height: 10%;
 }
 
 .movePlanets0 {
@@ -184,47 +186,47 @@ h1 {
 }
 
 .mainallcontent9 p {
-    color: red;
+    color: #04d8fd;
 }
 
 .mainallcontent10 p {
-    color: red;
+    color: #1c0fcc;
 }
 
 .mainallcontent11 p {
-    color: red;
+    color: #db0909;
 }
 
 .mainallcontent12 p {
-    color: red;
+    color: #1874c0;
 }
 
 .mainallcontent13 p {
-    color: red;
+    color: #ff9900;
 }
 
 .mainallcontent14 p {
-    color: red;
+    color: #ffffff;
 }
 
 .mainallcontent15 p {
-    color: red;
+    color: #ffffff;
 }
 
 .mainallcontent16 p {
-    color: red;
+    color: #b35600;
 }
 
 .mainallcontent17 p {
-    color: red;
+    color: #c300ff;
 }
 
 .mainallcontent18 p {
-    color: red;
+    color: #00a2ff;
 }
 
 .mainallcontent19 p {
-    color: red;
+    color: #ffa600;
 }
 
 .mainbackgroundContent0 {
@@ -271,57 +273,57 @@ h1 {
 }
 
 .mainbackgroundContent9 {
-    background-color: rgb(43, 167, 84);
+    background-color: #2ba78c9f;
 
 }
 
 .mainbackgroundContent10 {
-    background-color: rgb(184, 40, 40);
+    background-color: #1e1e1f9f;
 
 }
 
 .mainbackgroundContent11 {
-    background-color: rgb(17, 12, 12);
+    background-color: #3116169f;
 
 }
 
 .mainbackgroundContent12 {
-    background-color: rgb(90, 83, 83);
+    background-color: #6003da9f;
 
 }
 
 .mainbackgroundContent13 {
-    background-color: rgb(247, 184, 184);
+    background-color: #343a379f;
 
 }
 
 .mainbackgroundContent14 {
-    background-color: rgb(125, 161, 78);
+    background-color: #d400009f;
 
 }
 
 .mainbackgroundContent15 {
-    background-color: rgb(88, 63, 15);
+    background-color: #00fff29f;
 
 }
 
 .mainbackgroundContent16 {
-    background-color: rgb(51, 115, 151);
+    background-color: #d61b039f;
 
 }
 
 .mainbackgroundContent17 {
-    background-color: rgb(67, 177, 100);
+    background-color: #4c0bc49f;
 
 }
 
 .mainbackgroundContent18 {
-    background-color: rgb(87, 23, 100);
+    background-color: #5217649f;
 
 }
 
 .mainbackgroundContent19 {
-    background-color: rgb(5, 54, 94);
+    background-color: #05365e9f;
 
 }
 
@@ -649,7 +651,7 @@ h1 {
     background-color: #FF80009f;
 }
 
-.charbackgroundContent3{
+.charbackgroundContent3 {
     background-color: #40bfcd9f;
 }
 

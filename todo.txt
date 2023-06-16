@@ -1,30 +1,3 @@
-//
-PLANETS
-
-Bionicle - first : goldish brown, light grey
-Risk of Rain - second : dark purple, yellow that fits with purple
-Outer Wilds - third : orange, turquiose
-Einhänder - fourth : dark and light blue
-Ultrakill - fifth : red and orange 
-Warhammer 40K - sixth : metallic blues(?) and red
-Deep Rock Galactic - seventh : yellow, orange, light brown and some more brown
-Dead Space - eight : browns, turquiose and light blue
-Digimon - nineth : blues and oranges (maybe yellows)
-Planetes - tenth : blues
-Godzilla - eleventh : light blue and black
-Metal Gear (Solid) - twelveth : black and red
-Furi - thirteeneth : neon purple, blue, white and pink
-MO:Astray - fourteeneth : greenish light blue and weak yellow
-Guilty Gear - fiveteeneth : whites and reds
-Hyperlight Drifter - sixteeneth : reds, light blues, whites and blacks
-Gurren Lagann - seventeeneth : oranges, reds and black
-Va-11 Hall-A - eighteeneth : blues, pinkish reds and blackss
-Katana Zero - nineteeneth : neon blues, pinks, purples and reds
-Starbound - twentieth : greys and yellows
-
-//
-
-
 **
 DOOR AND DICE
 
@@ -45,13 +18,5 @@ Some animations blender(dice on table and door, maybe also the background)
 ==
 CONTENTS
 
-DON'T FORGET TO DO THEM, animations, videos, pictures, text (no need to be long except the review ones)
-
+DON'T FORGET TO DO THEM, animations, pictures
 ==
-
-..
-SECRET PAGE
-
-Make the blender/SFM stuff and do the video as well
-Music: I really want to stay at your home(Cyberpunk 2077) and Scourge of the Universe(might change)(Terraria Calamity)
-..
