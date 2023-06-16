@@ -20,6 +20,7 @@ if (!localStorage["planets"]) {
   document.getElementById("planets").innerHTML = string;
   function openPlanet(i){
         localStorage["planetIndex"] = JSON.stringify(i);
+        document.getElementById("planets").style.cursor="pointer";
         window.open("planet.html", "_self");
   }
 

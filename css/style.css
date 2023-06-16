@@ -8,7 +8,7 @@
     src: url(../fonts/Cascadia.ttf);
 }
 
-html {
+#background {
     background-image: url(../images/background.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,6 +16,8 @@ html {
 
 p {
     font-family: cascadia;
+    font-weight: bold;
+    font-size: 150%;
 }
 
 a {
@@ -24,6 +26,29 @@ a {
 
 h1 {
     font-family: cascadia;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #683d839f;
+    max-width: 25%;
+    margin-left: 36%;
+    border: solid #4640409f 10px;
+}
+
+#gallery {
+    width: 100%;
+    height: 20%;
+}
+
+#character {
+    width: 38%;
+    height: 20%;
+    margin-left: 55%;
 }
 
 #planets {
@@ -41,21 +66,42 @@ h1 {
 
 #spaceship {
     position: relative;
-    left: 140px;
+    left: 840px;
     top: 350px;
     width: 10%;
     height: 10%;
 }
 
+#spaceshipbackground{
+    background-image: url(../images/spaceshipbackground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#dice{
+    position: relative;
+    top: 550px;
+}
+
+#dicesecond{
+    position: relative;
+    top: 5px;
+}
+
+#dice:hover{
+    cursor: pointer;
+}
+
 .movePlanets0 {
     margin-left: 20%;
     position: relative;
-    top: 50%;
+    top: 150px;
 }
 
 .movePlanets1 {
     margin-left: 15%;
     position: relative;
+    right: 25px;
 }
 
 .movePlanets2 {
@@ -149,6 +195,127 @@ h1 {
     position: relative;
 }
 
+.mainallcontent0 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent1 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent2 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent3 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent4 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent5 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent6 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+
+.mainallcontent7 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent8 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent9 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent10 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent11 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent12 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent13 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent14 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent15 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent16 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent17 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent18 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+.mainallcontent19 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
 .mainallcontent0 p {
     color: #492f02;
 }
@@ -190,7 +357,7 @@ h1 {
 }
 
 .mainallcontent10 p {
-    color: #1c0fcc;
+    color: #22e58a;
 }
 
 .mainallcontent11 p {
@@ -231,596 +398,854 @@ h1 {
 
 .mainbackgroundContent0 {
     background-color: #ceb7849f;
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent1 {
     background-color: #5700669f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent2 {
     background-color: #FF80009f;
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent3 {
     background-color: #40BFCD9f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent4 {
     background-color: #7202029f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent5 {
     background-color: #0605559f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent6 {
     background-color: #3619089f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent7 {
     background-color: #2516079f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent8 {
     background-color: #02008a9f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent9 {
     background-color: #2ba78c9f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent10 {
     background-color: #1e1e1f9f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent11 {
     background-color: #3116169f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent12 {
     background-color: #6003da9f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent13 {
     background-color: #343a379f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent14 {
     background-color: #d400009f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent15 {
     background-color: #00fff29f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent16 {
     background-color: #d61b039f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent17 {
     background-color: #4c0bc49f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent18 {
     background-color: #5217649f;
-
+    border: solid #4640409f 10px;
 }
 
 .mainbackgroundContent19 {
     background-color: #05365e9f;
-
+    border: solid #4640409f 10px;
 }
 
 .charheader0>p,
 .charheader0>h1 {
     color: #492f02;
+    margin-left: 2%;
 }
 
 .charheader1>p,
 .charheader1>h1 {
     color: #FFFFFF;
+    margin-left: 2%;
 }
 
 .charheader2>p,
 .charheader2>h1 {
     color: #15088b;
+    margin-left: 2%;
 }
 
 .charheader3>p,
 .charheader3>h1 {
-    color: #01116A;
+    color: #09014e;
+    margin-left: 2%;
 }
 
 .charheader4>p,
 .charheader4>h1 {
     color: #FCA055;
+    margin-left: 2%;
 }
 
 .charheader5>p,
 .charheader5>h1 {
-    color: red;
+    color: #c4c3c3;
+    margin-left: 2%;
 }
 
 .charheader6>p,
 .charheader6>h1 {
-    color: red;
+    color: #cf8e00;
+    margin-left: 2%;
 }
 
 .charheader7>p,
 .charheader7>h1 {
-    color: red;
+    color: #a76c1f;
+    margin-left: 2%;
 }
 
 .charheader8>p,
 .charheader8>h1 {
-    color: red;
+    color: #ffae00;
+    margin-left: 2%;
 }
 
 .charheader9>p,
 .charheader9>h1 {
-    color: red;
+    color: #04d8fd;
+    margin-left: 2%;
 }
 
 .charheader10>p,
 .charheader10>h1 {
-    color: red;
+    color: #22e58a;
+    margin-left: 2%;
 }
 
 .charheader11>p,
 .charheader11>h1 {
-    color: red;
+    color: #db0909;
+    margin-left: 2%;
 }
 
 .charheader12>p,
 .charheader12>h1 {
-    color: red;
+    color: #1874c0;
+    margin-left: 2%;
 }
 
 .charheader13>p,
 .charheader13>h1 {
-    color: red;
+    color: #ff9900;
+    margin-left: 2%;
 }
 
 .charheader14>p,
 .charheader14>h1 {
-    color: red;
+    color: #ffffff;
+    margin-left: 2%;
 }
 
 .charheader15>p,
 .charheader15>h1 {
-    color: red;
+    color: #ffffff;
+    margin-left: 2%;
 }
 
 .charheader16>p,
 .charheader16>h1 {
-    color: red;
+    color: #b35600;
+    margin-left: 2%;
 }
 
 .charheader17>p,
 .charheader17>h1 {
-    color: red;
+    color: #c300ff;
+    margin-left: 2%;
 }
 
 .charheader18>p,
 .charheader18>h1 {
-    color: red;
+    color: #00a2ff;
+    margin-left: 2%;
 }
 
 .charheader19>p,
 .charheader19>h1 {
-    color: red;
+    color: #ffa600;
+    margin-left: 2%;
 }
 
 .charcontent0 p {
     color: #492f02;
+    margin-left: 5%;
 }
 
 .charcontent1 p {
     color: #FFFFFF;
+    margin-left: 5%;
 }
 
 .charcontent2 p {
     color: #15088b;
+    margin-left: 5%;
 }
 
 .charcontent3 p {
-    color: #01116A;
+    color: #09014e;
+    margin-left: 5%;
 }
 
 .charcontent4 p {
     color: #FCA055;
+    margin-left: 5%;
 }
 
-.charcontent5 p {}
+.charcontent5 p {
+    color: #c4c3c3;
+    margin-left: 5%;
+}
 
-.charcontent6 p {}
+.charcontent6 p {
+    color: #cf8e00;
+    margin-left: 5%;
+}
 
-.charcontent7 p {}
+.charcontent7 p {
+    color: #a76c1f;
+    margin-left: 5%;
+}
 
-.charcontent8 p {}
+.charcontent8 p {
+    color: #ffae00;
+    margin-left: 5%;
+}
 
-.charcontent9 p {}
+.charcontent9 p {
+    color: #04d8fd;
+    margin-left: 5%;
+}
 
-.charcontent10 p {}
+.charcontent10 p {
+    color: #22e58a;
+    margin-left: 5%;
+}
 
-.charcontent11 p {}
+.charcontent11 p {
+    color: #db0909;
+    margin-left: 5%;
+}
 
-.charcontent12 p {}
+.charcontent12 p {
+    color: #1874c0;
+    margin-left: 5%;
+}
 
-.charcontent13 p {}
+.charcontent13 p {
+    color: #ff9900;
+    margin-left: 5%;
+}
 
-.charcontent14 p {}
+.charcontent14 p {
+    color: #ffffff;
+    margin-left: 5%;
+}
 
-.charcontent15 p {}
+.charcontent15 p {
+    color: #ffffff;
+    margin-left: 5%;
+}
 
-.charcontent16 p {}
+.charcontent16 p {
+    color: #b35600;
+    margin-left: 5%;
+}
 
-.charcontent17 p {}
+.charcontent17 p {
+    color: #c300ff;
+    margin-left: 5%;
+}
 
-.charcontent18 p {}
+.charcontent18 p {
+    color: #00a2ff;
+    margin-left: 5%;
+}
 
-.charcontent19 p {}
+.charcontent19 p {
+    color: #ffa600;
+    margin-left: 5%;
+}
 
 .charlinks0 p {
     color: #492f02;
+    margin-left: 2%;
 }
 
 .charlinks1 p {
     color: #FFFFFF;
+    margin-left: 2%;
 }
 
 .charlinks2 p {
     color: #15088b;
+    margin-left: 2%;
 }
 
 .charlinks3 p {
-    color: #01116A;
+    color: #09014e;
+    margin-left: 2%;
 }
 
 .charlinks4 p {
-    color: red;
+    color: #FCA055;
+    margin-left: 2%;
 }
 
 .charlinks5 p {
-    color: red;
+    color: #c4c3c3;
+    margin-left: 2%;
 }
 
 .charlinks6 p {
-    color: red;
+    color: #cf8e00;
+    margin-left: 2%;
 }
 
 .charlinks7 p {
-    color: red;
+    color: #a76c1f;
+    margin-left: 2%;
 }
 
 .charlinks8 p {
-    color: red;
+    color: #ffae00;
+    margin-left: 2%;
 }
 
 .charlinks9 p {
-    color: red;
+    color: #04d8fd;
+    margin-left: 2%;
 }
 
 .charlinks10 p {
-    color: red;
+    color: #22e58a;
+    margin-left: 2%;
 }
 
 .charlinks11 p {
-    color: red;
+    color: #db0909;
+    margin-left: 2%;
 }
 
 .charlinks12 p {
-    color: red;
+    color: #1874c0;
+    margin-left: 2%;
 }
 
 .charlinks13 p {
-    color: red;
+    color: #ff9900;
+    margin-left: 2%;
 }
 
 .charlinks14 p {
-    color: red;
+    color: #ffffff;
+    margin-left: 2%;
 }
 
 .charlinks15 p {
-    color: red;
+    color: #ffffff;
+    margin-left: 2%;
 }
 
 .charlinks16 p {
-    color: red;
+    color: #b35600;
+    margin-left: 2%;
 }
 
 .charlinks17 p {
-    color: red;
+    color: #c300ff;
+    margin-left: 2%;
 }
 
 .charlinks18 p {
-    color: red;
+    color: #00a2ff;
+    margin-left: 2%;
 }
 
 .charlinks19 p {
-    color: red;
+    color: #ffa600;
+    margin-left: 2%;
 }
 
 .charlinks0 p:hover {
-    color: #032f19;
+    color: #8d1901;
 }
 
 .charlinks1 p:hover {
-    color: #032f19;
+    color: #009dc0;
 }
 
 .charlinks2 p:hover {
-    color: #032f19;
+    color: #47e3de;
 }
 
 .charlinks3 p:hover {
-    color: #032f19;
+    color: #00a6ff;
 }
 
 .charlinks4 p:hover {
-    color: #032f19;
+    color: #d20985;
 }
 
 .charlinks5 p:hover {
-    color: #032f19;
+    color: #2bdc08;
 }
 
 .charlinks6 p:hover {
-    color: #032f19;
+    color: #ffff00;
 }
 
 .charlinks7 p:hover {
-    color: #032f19;
+    color: #d50000;
 }
 
 .charlinks8 p:hover {
-    color: #032f19;
+    color: #ff0149;
 }
 
 .charlinks9 p:hover {
-    color: #032f19;
+    color: #0008ff;
 }
 
 .charlinks10 p:hover {
-    color: #032f19;
+    color: #c24e00;
 }
 
 .charlinks11 p:hover {
-    color: #032f19;
+    color: #eca501;
 }
 
 .charlinks12 p:hover {
-    color: #032f19;
+    color: #aa00ff;
 }
 
 .charlinks13 p:hover {
-    color: #032f19;
+    color: #00ffb3;
 }
 
 .charlinks14 p:hover {
-    color: #032f19;
+    color: #e20606;
 }
 
 .charlinks15 p:hover {
-    color: #032f19;
+    color: #c900dc;
 }
 
 .charlinks16 p:hover {
-    color: #032f19;
+    color: #ead301;
 }
 
 .charlinks17 p:hover {
-    color: #032f19;
+    color: #ad02d0;
 }
 
 .charlinks18 p:hover {
-    color: #032f19;
+    color: #d703a5;
 }
 
 .charlinks19 p:hover {
-    color: #032f19;
+    color: #00a494;
 }
 
 
 .charbackgroundContent0 {
     background-color: #ceb7849f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent1 {
     background-color: #5700669f;
-
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent2 {
     background-color: #FF80009f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent3 {
     background-color: #40bfcd9f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent4 {
     background-color: #7202029f;
-
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent5 {
-    background-color: rgb(255, 0, 242);
-
+    background-color: #0605559f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent6 {
-    background-color: rgb(255, 0, 98);
-
+    background-color: #3619089f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent7 {
-    background-color: rgb(19, 97, 51);
+    background-color: #2516079f;
+    border: solid #4640409f 10px;
+}
 
+.charbackgroundContent8 {
+    background-color: #02008a9f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent9 {
-    background-color: rgb(43, 167, 84);
-
+    background-color: #2ba78c9f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent10 {
-    background-color: rgb(184, 40, 40);
-
+    background-color: #1e1e1f9f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent11 {
-    background-color: rgb(17, 12, 12);
-
+    background-color: #3116169f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent12 {
-    background-color: rgb(90, 83, 83);
-
+    background-color: #6003da9f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent13 {
-    background-color: rgb(247, 184, 184);
-
+    background-color: #343a379f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent14 {
-    background-color: rgb(125, 161, 78);
-
+    background-color: #d400009f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent15 {
-    background-color: rgb(88, 63, 15);
-
+    background-color: #00fff29f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent16 {
-    background-color: rgb(51, 115, 151);
-
+    background-color: #d61b039f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent17 {
-    background-color: rgb(67, 177, 100);
-
+    background-color: #4c0bc49f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent18 {
-    background-color: rgb(87, 23, 100);
-
+    background-color: #5217649f;
+    border: solid #4640409f 10px;
 }
 
 .charbackgroundContent19 {
-    background-color: rgb(5, 54, 94);
-
+    background-color: #05365e9f;
+    border: solid #4640409f 10px;
 }
 
 .charpictures1 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures2 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures3 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures4 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures5 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures6 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures7 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures8 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures9 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures10 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures11 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures12 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures13 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures14 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures15 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures16 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures17 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures18 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
 }
 
 .charpictures19 {
+    margin-top: 2%;
+    margin-left: 2%;
     max-width: 50%;
     max-height: 50%;
+}
+
+.charallcontent0 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent1 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent2 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent3 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent4 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent5 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent6 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent7 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent8 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent9 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent10 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent11 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent12 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent13 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent14 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent15 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent16 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent17 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent18 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
+}
+
+.charallcontent19 {
+    margin-left: 2%;
+    width: 70%;
+    text-align: left;
 }

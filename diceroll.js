@@ -17,6 +17,7 @@ function RollDice() {
   // Navigate to the main page
   setTimeout(() => {
     window.open("index.html", "_self");
+    
   }, 1000);
 
 }
